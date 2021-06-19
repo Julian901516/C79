@@ -1,0 +1,12 @@
+input{
+    color: green;
+    background-color: pink;
+    font-style: italic;
+    font-weight: bold;
+    margin: 10px;
+}
+
+body{
+    color: blue;
+    background-color: yellow;
+}
